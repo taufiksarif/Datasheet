@@ -1,6 +1,6 @@
 # Datasheet Collection
 
-This folder contains component datasheets, module specifications, package references, and marking guides. It currently holds 33 PDF files. Filenames usually identify the main part or document; consult each manufacturer's datasheet for exact ratings, ordering codes, package drawings, and revision information.
+This folder contains component datasheets, module specifications, package references, and marking guides. It currently holds various PDF files. Filenames usually identify the main part or document; consult each manufacturer's datasheet for exact ratings, ordering codes, package drawings, and revision information.
 
 ## IGBT modules and power modules
 
