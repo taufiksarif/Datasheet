@@ -67,7 +67,7 @@ This folder contains component datasheets, module specifications, package refere
 
 ## Notes
 
-- There are 33 PDFs in the collection. Some are full product-family datasheets, not specifications for only one orderable part.
+- There are various PDFs in the collection. Some are full product-family datasheets, not specifications for only one orderable part.
 - Part-number markings can be ambiguous. Package size, circuit role, manufacturer, and electrical measurements may be needed to identify a component reliably.
 - `SKM150GB123D.PDF` is the technical datasheet copy; the similarly named `SKM150GB123D_related_reference_only.pdf` is a distributor listing.
 - The two PZUxBA PDFs are identical copies. Both names are retained to preserve the existing file collection.
